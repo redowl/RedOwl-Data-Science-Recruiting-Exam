@@ -2,7 +2,7 @@ RedOwl Data Scientist Technical Exam, in the R language
 =======================================================
 
 To apply for a position at RedOwl Analytics, please visit
-http://redowlanalytics.com/careers/
+the [RedOwl Careers page](http://redowlanalytics.com/careers/)
 
 To complete the exam, ask the Data Science team to create a private
 fork of this repo for you, and then complete the following
