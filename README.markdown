@@ -14,7 +14,7 @@ Composing an R script
 Fill in the R script summarize-enron.R (an empty file is provided) that
 can be run from the [Unix] command line in the format:
 
-> Rscript --vanilla summarize-enron.R enron-event-history-all.csv
+#> Rscript --vanilla summarize-enron.R enron-event-history-all.csv
 
 The Enron event history (.csv, adapted from the widely-used publicly
 available data set) is included in this repo. The columns contain:
@@ -36,7 +36,7 @@ intervals. To clarify, the plot should have 5 lines, one for each of
 the top 5 email senders from the table in (1), and time should flow
 from left to right, in two-week increments.
 
-3) An image file in a format similar to (2) that shows, for the same 5
+3. An image file in a format similar to (2) that shows, for the same 5
 people, the number of unique people/email addresses who contacted them
 during the same two-week intervals. For example, if during a two-week
 period, person A receives 10 emails from 3 distinct people, plot 3 for
