@@ -1,5 +1,5 @@
 RedOwl Data Scientist Technical Exam, in the R language
-
+=======================================================
 
 To apply for a position at RedOwl Analytics, please visit
 http://redowlanalytics.com/careers/
@@ -8,6 +8,8 @@ To complete the exam, ask the Data Science team to create a private
 fork of this repo for you, and then complete the following
 instructions:
 
+Composing an R script
+--------------------
 
 Fill in the R script summarize-enron.R (an empty file is provided) that
 can be run from the [Unix] command line in the format:
@@ -40,6 +42,9 @@ during the same two-week intervals. For example, if during a two-week
 period, person A receives 10 emails from 3 distinct people, plot 3 for
 that time period.
 
+
+Submitting your code
+--------------------
 
 When you're done, make sure your script (but not the output) is
 committed and let your contact at RedOwl know via email or "pull
