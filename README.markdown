@@ -14,7 +14,9 @@ Composing an R script
 Fill in the R script summarize-enron.R (an empty file is provided) that
 can be run from the [Unix] command line in the format:
 
-#> Rscript --vanilla summarize-enron.R enron-event-history-all.csv
+```
+> Rscript --vanilla summarize-enron.R enron-event-history-all.csv
+```
 
 The Enron event history (.csv, adapted from the widely-used publicly
 available data set) is included in this repo. The columns contain:
