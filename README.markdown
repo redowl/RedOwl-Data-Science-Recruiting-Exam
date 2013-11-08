@@ -57,6 +57,5 @@ request".
 Code will be assessed based on completion of the tasks, efficiency,
 readability, and adherence to common coding practices that best enable
 sharing, re-using, and extending the code. The images need not be
-sophisticated, but they should be well-organized, easily
-interpretable, and of a quality typically seen in technical reports or
-scientific papers.
+technically sophisticated, but they should be well-organized, easily
+interpretable, informative, and visually concise.
