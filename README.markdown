@@ -32,17 +32,19 @@ The R script should produce three outputs:
 that person sent or received in the data set. This file should be
 sorted by the number of emails sent.
 
-2. An image file (JPEG or PNG recommended) showing a line graph of the
-number of emails sent by the top 5 people in (1), plotted by two-week
-intervals. To clarify, the plot should have 5 lines, one for each of
-the top 5 email senders from the table in (1), and time should flow
-from left to right, in two-week increments.
+2. An image file (JPEG or PNG recommended) showing a visualization of
+the number of emails sent over time by some of the most prolific
+senders in (1). There are no specific guidelines regarding the format
+and specific content of the visualization---you can choose which and
+how many senders to include, and the type of plot---but you should
+strive to make it as clear and informative as possible, making sure to
+represent time in some meaningful way.
 
-3. An image file in a format similar to (2) that shows, for the same 5
+3. An image file in a format similar to (2) that shows, for the same
 people, the number of unique people/email addresses who contacted them
-during the same two-week intervals. For example, if during a two-week
-period, person A receives 10 emails from 3 distinct people, plot 3 for
-that time period.
+over the same time period. The raw number of unique incoming contacts
+is not quite as important as the relative numbers (compared across the
+individuals from (2) ) and how they change over time.
 
 
 Submitting your code
