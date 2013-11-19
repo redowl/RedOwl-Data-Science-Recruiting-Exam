@@ -1,4 +1,4 @@
-RedOwl Data Scientist Technical Exam, in the R language
+RedOwl Data Scientist Technical Exam
 =======================================================
 
 To apply for a position at RedOwl Analytics, please visit
