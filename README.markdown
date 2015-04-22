@@ -56,7 +56,7 @@ Your script should produce three outputs:
    make it as clear and informative as possible, making sure to represent time
    in some meaningful way.
 
-3. A visualizatoin that shows, for the same people, the number of unique
+3. A visualization that shows, for the same people, the number of unique
    people/email addresses who contacted them over the same time period. The raw
    number of unique incoming contacts is not quite as important as the relative
    numbers (compared across the individuals from (2) ) and how they change over
