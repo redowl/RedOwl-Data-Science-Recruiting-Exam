@@ -26,9 +26,10 @@ is provided) that can be run from the [Unix] command line in the format:
 > Rscript --vanilla summarize-enron.R enron-event-history-all.csv
 ```
 
-If you choose to use Python, fill in the Python script summarize-enron.py (an
-empty file is provided) that can be run from the [Unix] command line in the
-format:
+If you choose to use Python, please use a standard installation of Python 2.7, 
+although you can use any external libraries that you like. Fill in the Python 
+script summarize-enron.py (an empty file is provided) that can be run from the 
+[Unix] command line in the format:
 
 ```
 > python summarize-python.py enron-event-history-all.csv
