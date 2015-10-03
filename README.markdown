@@ -32,7 +32,7 @@ script summarize-enron.py (an empty file is provided) that can be run from the
 [Unix] command line in the format:
 
 ```
-> python summarize-python.py enron-event-history-all.csv
+> python summarize-enron.py enron-event-history-all.csv
 ```
 The Enron event history (.csv, adapted from the widely-used publicly available
 data set) is included in this repo. The columns contain:
